@@ -1,0 +1,251 @@
+[33mcommit 5ce26fd8a3f0d0fa34588fbf12462695f4e5b956[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Sun Apr 24 18:06:44 2022 +0545
+
+    model of lineItems
+
+[33mcommit 2cede76fecb036734b020f770c78ab73028be42c[m
+Merge: 15f5ed6 842db1d
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Sun Apr 24 17:10:19 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit 15f5ed694b5e8fe3945ac004ee8a0bd718b0a3af[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Sun Apr 24 17:10:02 2022 +0545
+
+    creating line_items migration
+
+[33mcommit 842db1d62e197d48b7a4ee2157152d9db6d418db[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Sun Apr 24 16:51:29 2022 +0545
+
+    corrected
+
+[33mcommit 5eb246ad3bb17d6a3bbf75119ac806997d82b478[m
+Merge: 39cfee6 3554fa5
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Sun Apr 24 16:50:37 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit 39cfee614d1af647a5151dc375c7991ac7249365[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Sun Apr 24 16:50:15 2022 +0545
+
+    Relationship in model
+
+[33mcommit 3554fa52894b583ddc8a4098afbe37e87c270d14[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Sun Apr 24 16:44:40 2022 +0545
+
+    table and model orders
+
+[33mcommit c60374f941879c08ebd37b386a34c94bbef8b1a9[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Sun Apr 24 16:38:40 2022 +0545
+
+    making slug to unique
+
+[33mcommit 04183416376be785b25c61b0991ad77ba08b6617[m
+Merge: edae5d1 dca2e56
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Sun Apr 24 16:37:32 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit dca2e56e6a2654f093f22bd120d672dad4c494ba[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Sun Apr 24 16:26:38 2022 +0545
+
+    migration and model orders and line_items
+
+[33mcommit edae5d16993a35d76df0cf45ccc821eba90dea8a[m
+Merge: 7430d72 6ad35a3
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Fri Apr 22 15:27:05 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit 6ad35a338619a4eab5fb91cb85e74c3edee82bfd[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 15:26:34 2022 +0545
+
+    completed task(rf_user_id)foreign key**
+
+[33mcommit 7430d720359f11284344e35a2ba2ec12855a20fc[m
+Merge: 090abe4 3d64c19
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Fri Apr 22 15:19:03 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit 090abe48050492c57dc14611cfb124219f17a4a5[m
+Merge: e0ea529 47a3b71
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Fri Apr 22 15:18:40 2022 +0545
+
+    git add
+
+[33mcommit 3d64c192857cc190912f906f5bec2d904ed27118[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 15:12:42 2022 +0545
+
+    user and user migration and model
+
+[33mcommit 5fcc055c9b7a116c8b2e92bc5c126f88191e80f5[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 15:10:14 2022 +0545
+
+    user table
+
+[33mcommit 6ca88275c7cfe0ee2fe9b0946b9363756f4d1aac[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 14:44:10 2022 +0545
+
+    updated all migration except user_meta
+
+[33mcommit e0ea5298cb31964172111c373d75b5f98cce1ea8[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Fri Apr 22 14:35:38 2022 +0545
+
+    foreign key produtct attribute solve
+
+[33mcommit 47a3b7184d7d7616538f4280d24eb5cf4e1a03c4[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 13:57:59 2022 +0545
+
+    debuge
+
+[33mcommit 0f35078a7ab1431ae4e590daaffa0398192c1dac[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 13:14:30 2022 +0545
+
+    debug
+
+[33mcommit b0652931fd8cbf27042ee6ea0b623199852d6a49[m
+Merge: 2bb25dc 183e7a5
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 12:53:08 2022 +0545
+
+    area migration and model
+
+[33mcommit 2bb25dc46c4dd221f971589d4e3678786342c418[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 12:40:13 2022 +0545
+
+    debug
+
+[33mcommit 183e7a57d49e31b81acc588cf193c055ff8ae5d4[m
+Merge: d8d7d22 b2818dd
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 12:37:10 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit d8d7d22cb2ed5b18e16c7ace7f90596686dabccc[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 12:36:50 2022 +0545
+
+    state and district
+
+[33mcommit b2818dd653c0044f3e021fe597215c0724ecbc74[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Fri Apr 22 12:24:26 2022 +0545
+
+    add display table col in attribute meta
+
+[33mcommit a51230dc0ee68c0e606b6088ed5014bd732ac203[m
+Merge: 9e9482e aba7e1e
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 11:07:46 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit 9e9482ef649d5cd91a7ebcf4f70669a95c1fd83b[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Fri Apr 22 11:07:16 2022 +0545
+
+    state and mode
+
+[33mcommit aba7e1e13f64b5945670063163d7b81d2765d5a3[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Fri Apr 22 11:00:20 2022 +0545
+
+    UPDATED THE realtions
+
+[33mcommit 6fea15c48b3711e311b27d5223054d899f8ce6b8[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Wed Apr 20 14:03:53 2022 +0545
+
+    debug
+
+[33mcommit 517836332325742e20130336044725831a2c7ecf[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Wed Apr 20 13:46:23 2022 +0545
+
+    renamed
+
+[33mcommit f658bb56c6edde6d10dde361ba3dc5718f26e37f[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Wed Apr 20 13:27:52 2022 +0545
+
+    image
+
+[33mcommit ee4387627c4977f63b896b419bfacbceaa168c4e[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Wed Apr 20 12:54:38 2022 +0545
+
+    updated foreignId
+
+[33mcommit 149769889aa150513d6fb4f32d74f35e95865980[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Wed Apr 20 12:20:14 2022 +0545
+
+    changes foreign id
+
+[33mcommit 554b2ef71de0eb1693432cf2104d2f4cc7cc29da[m
+Merge: 35778cf cb095aa
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Wed Apr 20 12:06:07 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit cb095aa16977ad99dfaed7f3c8c790767810ca30[m
+Merge: af74777 5eefb07
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Wed Apr 20 12:05:34 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit af747774f9c164a248903ae0319a78aa3053de0e[m
+Author: Bhuwan k.c <bhuwanxhettri12345@gmail.com>
+Date:   Wed Apr 20 12:04:52 2022 +0545
+
+    migration and model of attribute
+
+[33mcommit 35778cf912855df48e8fe3087b80f17fe97681b4[m
+Merge: c708ef3 5eefb07
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Wed Apr 20 12:00:34 2022 +0545
+
+    Merge branch 'master' of https://github.com/bitmicrosys/bestfrn
+
+[33mcommit c708ef32d7c8f3a07ebe0596d80d3dbf92592f9a[m
+Author: lokendra gharti <lokendragharti3@gmail.com>
+Date:   Wed Apr 20 11:55:38 2022 +0545
+
+    migartion and model of product_varient and images
+
+[33mcommit 5eefb07b55bb6502a0e81261ff62372bf56c1152[m
+Author: Bipin Giri <bipingiri27@gmail.com>
+Date:   Wed Apr 20 11:50:15 2022 +0545
+
+    migration and model of products
+
+[33mcommit 574dbb7f84a909c071c96a96df5de8f077768803[m
+Author: Prakash Timilsina <light@Prakashs-MacBook-Pro.local>
+Date:   Tue Apr 19 14:12:22 2022 +0545
+
+    initial commit
